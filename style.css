@@ -75,7 +75,6 @@ li {
   transition: 0.5s;
   padding: 20px 20px;
 }
-
 li:hover {
   color: #292929;
   border: 1px solid #292929;
